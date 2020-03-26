@@ -11,8 +11,9 @@ h3 {
 body {
     background-color: chocolate;
     margin: 0px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 20px;
+    font-family: 'Bilbo', cursive;
+    font-size: 20pt;
+    padding: 10px;
     text-align: center;
 }
 
