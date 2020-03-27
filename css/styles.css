@@ -25,8 +25,7 @@ h2 {
     
 }
 h3 {
-    color: lightblue;
-    text-align: center;
+    color: lightblue;    
     font-style: italic;
 }
 body {
@@ -35,12 +34,11 @@ body {
     font-family: 'Bilbo', cursive;
     font-size: 25pt;
     padding: 10px;
-    text-align: center;
+    text-align: left;
 }
 
-p {
-    
-    text-indent: 1px;
+p {    
+
     text-decoration: lawngreen;
 }
 
