@@ -20,7 +20,7 @@ h2 {
     margin: 0 0 10px 0;
 }
 .img-circle {
-    border: 5px solid white;
+    border: 10px solid rgb(168, 6, 6);
     border-radius: 30%;
     
 }
@@ -46,11 +46,6 @@ p {
 
 .nav-link-wrapper {
     font-size: 25px;
-}
-h1 {
-    color: mediumturquoise;
-    text-decoration: mediumvioletred;
-    font-size: 30px;
 }
 
 #contacts img {
@@ -90,3 +85,21 @@ input, textarea {
 .submit:hover {
     background-color: #43a09d;
 }
+.submit {
+    background-color: #3fb6b2;
+    padding: 12px 45px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #ffffff;
+    border: none;
+    outline: none;
+    margin: 0;
+    font-weight: bold;
+}
+img {
+    border: 7px solid rgb(41, 52, 99);
+    border-radius: 20%;
+      
+}
+
+
